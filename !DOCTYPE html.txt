@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Aryan Gogia | Skating Achievements</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:linear-gradient(to right,#0f2027,#203a43,#2c5364);
+color:white;
+}
+
+header{
+text-align:center;
+padding:40px;
+background:black;
+}
+
+header h1{
+font-size:40px;
+}
+
+nav{
+text-align:center;
+background:#111;
+padding:15px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-size:18px;
+}
+
+nav a:hover{
+color:#00ffff;
+}
+
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+.card{
+background:rgba(255,255,255,0.1);
+padding:25px;
+margin:20px 0;
+border-radius:12px;
+transition:0.3s;
+}
+
+.card:hover{
+transform:scale(1.05);
+background:rgba(255,255,255,0.2);
+}
+
+h2{
+color:#00ffff;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:black;
+margin-top:40px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Aryan Gogia</h1>
+<p>National Level Inline Speed Skater ⛸️</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Achievements</a>
+<a href="#">Nationals</a>
+</nav>
+
+<section>
+
+<div class="card">
+<h2>About Me</h2>
+<p>
+My name is Aryan Gogia and I am a passionate inline speed skater.
+I train regularly and compete in skating competitions at school,
+district, state, and national levels.
+</p>
+</div>
+
+<div class="card">
+<h2>About Inline Speed Skating</h2>
+<p>
+Inline speed skating is a competitive racing sport where athletes
+skate on inline skates with wheels arranged in a straight line.
+Skaters race on tracks, roads, and indoor rinks to achieve the
+fastest time possible.
+</p>
+</div>
+
+<div class="card">
+<h2>My Achievements</h2>
+<ul>
+<li>National Level Skating Participant</li>
+<li>Multiple District and School Competitions</li>
+<li>Active Competitive Inline Speed Skater</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>National Competitions</h2>
+<p>
+Participated in national-level skating competitions representing my
+team and continuing to improve speed, endurance, and technique.
+</p>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Aryan Gogia | Inline Speed Skating</p>
+</footer>
+
+</body>
+</html>
